@@ -12,6 +12,7 @@
 <center><img src="https://i.ibb.co/qB2X3mF/arc-settings.gif">
 
 Arc Menu: https://extensions.gnome.org/extension/1228/arc-menu/
+
 Dash to Panel: https://extensions.gnome.org/extension/1160/dash-to-panel/
 
 <img src="https://i.ibb.co/fnnWYyD/Arc-Menu-Dash-to-Panel-Preview.png">
